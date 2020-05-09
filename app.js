@@ -6,7 +6,7 @@ const resume = {
   interests: ['Eating', 'Sleeping', 'Coding'],
   positions: [
       {
-      company: 'Zeekee',
+      company: 'Freelancer',
       title: 'Dev',
       description: 'Built websites'
   },{
